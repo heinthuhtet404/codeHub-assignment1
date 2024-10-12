@@ -25,8 +25,9 @@ const Form = (props) => {
       email,
     };
     props.swiftInfo(personInfo);
+
     setName("");
-    setAge("");
+    setLive("");
     setEmail("");
   };
 

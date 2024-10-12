@@ -1,0 +1,17 @@
+.card{
+    background-color: #efeaea;
+    margin: 30px;
+    padding: 20px;
+    border: 1px solid grey;
+    border-radius: 6px;
+}
+
+.box{
+    align-items: center;
+    display: flex;
+    height: 30px;
+}
+
+.box pre{
+    width: 30%;
+}
